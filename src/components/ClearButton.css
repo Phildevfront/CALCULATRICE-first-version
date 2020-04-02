@@ -4,10 +4,12 @@
     height: 4em;
     align-items: center;
     justify-content: center;
-    font-weight: lighter;
-    font-size: 1.rem;
+    font-weight: 300;
+    font-size: 1.2rem;
     outline: 3px solid #fff;
     height: 4em;
-    background-color: #c8c1e2;
+    background-color: #bcbac4;
+    cursor: pointer;
+   
 
 }

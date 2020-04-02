@@ -141,7 +141,7 @@ class App extends Component {
           </div>
           <div className="row">
           <ClearButton handleClear={this.clearInput}
-          >Clear</ClearButton>
+          >Reset</ClearButton>
           </div>
         </div>
       </div>
